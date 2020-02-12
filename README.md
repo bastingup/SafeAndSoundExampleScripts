@@ -20,6 +20,9 @@ The derivation is the same for all characters:
 For visual/dev content visist:
 https://www.instagram.com/hopelessheartsgames/
 
+Check it out on my homepage:
+https://bastingup.github.io/html/sas.html
+
 ![alt text](./Images/sas_01.gif)
 
 ![alt text](./Images/sas_02.gif)
