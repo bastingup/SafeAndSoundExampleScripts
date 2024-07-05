@@ -1,7 +1,7 @@
 # UPDATE
 This repository is outdated for several years now. It used to be a portfolio project. Since then, Safe And Sound has developed into a full fledged stealth shooter prototype. See the video below.
 
-[![Watch the video]](./0705.mp4)
+[![Watch the video]](./0705.mov)
 
 
 
