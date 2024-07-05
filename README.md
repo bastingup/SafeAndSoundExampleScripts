@@ -1,7 +1,10 @@
 # UPDATE
 This repository is outdated for several years now. It used to be a portfolio project. Since then, Safe And Sound has developed into a full fledged stealth shooter prototype. See the video below.
 
-[![Watch the video]](./0705.mov)
+
+
+https://github.com/bastingup/SafeAndSoundExampleScripts/assets/28649176/5de02424-c926-4069-b53d-5e5ca42346be
+
 
 
 
