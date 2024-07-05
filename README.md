@@ -1,3 +1,10 @@
+# UPDATE
+This repository is outdated for several years now. It used to be a portfolio project. Since then, Safe And Sound has developed into a full fledged stealth shooter prototype. See the video below.
+
+![alt text](./Images/sas_01.gif)
+
+
+
 # SafeAndSoundExampleScripts
 A collection of scripts demonstrating my work and approaches in creating my indie game Safe And Sound.
 
